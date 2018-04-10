@@ -1,0 +1,32 @@
+.App {
+  text-align: center; }
+
+.App-logo {
+  height: 150px;
+  float: right; }
+
+.list li {
+  font-family: Helvetica, sans-serif;
+  position: relative;
+  margin: 20px, 10px, 20px, 10px;
+  font-size: 18px;
+  font-weight: 200;
+  list-style: none; }
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white; }
+
+.App-title {
+  font-size: 1.8em;
+  font-family: Helvetica, sans-serif;
+  position: relative; }
+
+.App-intro {
+  font-size: large; }
+
+.footer {
+  font-family: Helvetica, sans-serif;
+  position: relative; }
